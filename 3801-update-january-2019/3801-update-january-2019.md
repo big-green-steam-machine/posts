@@ -8,7 +8,7 @@ categories:
 ---
 
 
-The following images provide a photo update of recent works on the 3801 project.
+\*\*The following images provide a photo update of recent works on the 3801 project.\*\*
 
 ![ree](367ea5_6f4a817ef7c74aa98447d15932938813~mv2_d_3024_4032_s_4_2.jpg)
 

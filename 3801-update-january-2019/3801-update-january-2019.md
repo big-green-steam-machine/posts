@@ -2,6 +2,7 @@
 title: "3801 update - January 2019"
 slug: 3801-update-january-2019
 date: Jan 14, 2019
+hero_image: 367ea5_6f4a817ef7c74aa98447d15932938813~mv2_d_3024_4032_s_4_2.jpg
 categories:
   - 3801 Project
 ---
